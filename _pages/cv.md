@@ -11,30 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B.S. in Mathematics and Applied Mathematics, Zhejiang University, 2019
+* Ph.D in Biostatistics, University of North Carolina at Chapel Hill, 2024 (expected)
 
 Publications
 ======
@@ -54,6 +32,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Piano
 ======
-* Currently signed in to 43 different slack teams
+* Started playing piano in 4 years old
+* Piano recital, June 2019, Zi-Jin-Gang Theater of Zhejiang University
+  * Beethoven: *Piano Sonata No. 23 in F Minor, Op. 57 "Appassionata": I. Allergo assai*
+  * Chopin: *Ballade No. 4 in F Minor, Op. 52*
+  * Liszt: *Rhapsody Espagnole, S.254*
+  * Rachmaninoff: *Piano Concerto No. 2 in C Minor, Op. 18*
+
+
