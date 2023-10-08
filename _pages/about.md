@@ -41,7 +41,7 @@ and [Impact of Genomic Variation on Function (IGVF) consortium](http://igvf.org)
 **Key words**
 
   * Statistical genetics and genomics
-  * Bioinformatics
+  * Bioinformatics and computational biology
   * Polygenic risk score
   * Diversity
   * Single-cell RNA-seq
