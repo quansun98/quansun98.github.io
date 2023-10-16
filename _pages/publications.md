@@ -7,11 +7,15 @@ author_profile: true
 
 List in [Google Scholar](https://scholar.google.com/citations?user=McM4hl0AAAAJ&hl=en)
 
-Last update: 10/3/2023
+Last update: 10/16/2023
 
 <sup>*</sup> denotes co-first authorship
 
 ## Pre-print & Submitted
+
+1. (Submitted) Hou K, Gogarten S, Kim J, Hua X, Dias J, **Sun Q**, Wang Y, Tan T, Polygenic Risk Methods in Diverse Populations (PRIMED) Consortium Methods Working Group, 
+Atkinson EG, Martin A, Shortt J, Hirbo J, Li Y, Pasaniuc B, Zhang H. 2023+.
+[bioRxiv 2023.09.30.560263](https://doi.org/10.1101/2023.09.30.560263).
 
 1. (Submitted) Yang X<sup>*</sup>, Jones lR<sup>*</sup>, Chen PB<sup>*</sup>, Yang H<sup>*</sup>, Ren X<sup>*</sup>, Zheng L, Li B, Li YE, **Sun Q**, Wen J, Beaman C, Cui X, Li Y, Wang W, Hu M, Ren B, Shen Y. 
 Functional characterization of gene regulatory elements and neuropsychiatric disease-associated risk loci in iPSCs and iPSC-derived neurons. 2023+. 

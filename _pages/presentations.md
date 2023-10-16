@@ -5,7 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 
-Last update: 10/3/2023
+Last update: 10/16/2023
 
 ## Scheduled Future Presentations
 
@@ -17,16 +17,16 @@ MagicalRsq-X: A cross-cohort transferable genotype imputation quality metric.
 1. **ASHG 2023 Meeting**, Washington DC, Nov. 2023 (Poster).
 Genome-wide association studies for alloimmunization among patients with sickle cell disease.
 [Abstract](https://eppro01.ativ.me/src/EventPilot/php/express/web/planner.php?id=ASHG23).
+{: reversed="reversed"}
+
+## Past Presentations
 
 1. **SHSA 2023 Meeting**, Phoenix, Oct. 2023 (10min Talk).
 Genetic Correlation Analysis of Hidradenitis Suppurativa Comorbidity.
 
 1. **CHARGE 2023 San Antonio meeting**, San Antonio, Oct. 2023 (Poster with 1min blitz).
-MagicalRsq-X: A cross-cohort transferable genotype imputation quality metric. 
-{: reversed="reversed"}
+MagicalRsq-X: A cross-cohort transferable genotype imputation quality metric.
 
-
-## Past Presentations
 1. **UNC Genetics Scientific Retreat**, Asheville, Sep. 2023 (15min Talk).
 Improving Polygenic Risk Prediction in Admixed Populations by Explicitly Modeling Ancestral-Differential Effects via GAUDI.
 
