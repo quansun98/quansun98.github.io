@@ -5,21 +5,17 @@ permalink: /presentations/
 author_profile: true
 ---
 
-Last update: 10/16/2023
+Last update: 11/7/2023
 
-## Scheduled Future Presentations
 
 1. **IGES 2023 Meeting**, Nashville, Nov. 2023 (15min Talk).
-MagicalRsq-X: A cross-cohort transferable genotype imputation quality metric. 
+MagicalRsq-X: A cross-cohort transferable genotype imputation quality metric.
 [Session](https://site.pheedloop.com/event/IGES2023/schedule/SESCTGGNIUIEH4OQK);
 [Abstract #137](https://iges.memberclicks.net/assets/docs/2023documents/2023%20IGES%20Abstracts.pdf).
 
 1. **ASHG 2023 Meeting**, Washington DC, Nov. 2023 (Poster).
 Genome-wide association studies for alloimmunization among patients with sickle cell disease.
 [Abstract](https://eppro01.ativ.me/src/EventPilot/php/express/web/planner.php?id=ASHG23).
-{: reversed="reversed"}
-
-## Past Presentations
 
 1. **SHSA 2023 Meeting**, Phoenix, Oct. 2023 (10min Talk).
 Genetic Correlation Analysis of Hidradenitis Suppurativa Comorbidity.

@@ -5,6 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
+1. **IGES 2023 Roger Williams Memorial Award** (Best Graduate Student Presentation) by *International Genetic Epidemiology Society*, Nov. 2023.
+
 1. **ASHG 2023 Reviewers' Choice Award** (Scored Top 10%) by *American Society of Human Genetics*, Aug. 2023.  
 
 1. **CHARGE San Antonio 2023 Travel Award** by *CHARGE Consortium*, Aug. 2023.
