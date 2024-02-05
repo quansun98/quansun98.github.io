@@ -7,14 +7,19 @@ author_profile: true
 
 List in [Google Scholar](https://scholar.google.com/citations?user=McM4hl0AAAAJ&hl=en)
 
-Last update: 10/16/2023
+Last update: 2/5/2024
 
 <sup>*</sup> denotes co-first authorship
 
 ## Pre-print & Submitted
 
+1. (Submitted) **Sun Q**, Yang Y, Rosen JD, Chen J, Guan W, Jiang M, Wen J, Pace RG, Blackman SM, Bamshad MJ, Gibson RL, Cutting GR, O'Neal WK, Knowles MR, Kooperberg C, Reiner AP, Raffield LM, Carson AP, Rich SS, Rotter JI, Loos RJF, Kenny E, Jaeger BC, Min YI, Fuchsberger C, Li Y.
+MagicalRsq-X: A cross-cohort transferable genotype imputation quality metric. 2024+.
+[GitHub](https://github.com/quansun98/MagicalRsqX).
+
 1. (Submitted) Hou K, Gogarten S, Kim J, Hua X, Dias J, **Sun Q**, Wang Y, Tan T, Polygenic Risk Methods in Diverse Populations (PRIMED) Consortium Methods Working Group, 
-Atkinson EG, Martin A, Shortt J, Hirbo J, Li Y, Pasaniuc B, Zhang H. 2023+.
+Atkinson EG, Martin A, Shortt J, Hirbo J, Li Y, Pasaniuc B, Zhang H. 
+Admix-kit: An Integrated Toolkit and Pipeline for Genetic Analyses of Admixed Populations. 2023+.
 [bioRxiv 2023.09.30.560263](https://doi.org/10.1101/2023.09.30.560263).
 
 1. (Submitted) Yang X<sup>*</sup>, Jones lR<sup>*</sup>, Chen PB<sup>*</sup>, Yang H<sup>*</sup>, Ren X<sup>*</sup>, Zheng L, Li B, Li YE, **Sun Q**, Wen J, Beaman C, Cui X, Li Y, Wang W, Hu M, Ren B, Shen Y. 
@@ -31,9 +36,6 @@ Genetics of cardiovascular outcomes in individuals with chronic kidney disease: 
 Gene Expression and Splicing QTL Analysis of Blood Cells in African American Participants from the Jackson Heart Study. 2023+.
 [bioRxiv 2023.04.26.538455](https://doi.org/10.1101/2023.04.26.538455).
 
-1. (Submitted) Hughes O, Bentley AR, Breeze C, Aguet F, Xu X, Nadkarni G, **Sun Q**, Lin B, Gilliland T, ..., Rotimi C, Morris A, Franceschini N. 
-Genome-wide association study for kidney function in individuals of African ancestry and ancestry in the Americas provides insight into effector genes and polygenic prediction. 2023+.
-
 1. (Submitted) Best LG, Erdei E, Haack K, Kent JW, Malloy K, Newman DE, O'Leary MA, O'Leary RA, **Sun Q**, Navas-Acien A, Franceschini N, Cole SA.
 Genetic variant rs1205 associated with COVID-19 Outcomes: The Strong Heart Study and Strong Heart Family Study. 2023+.
 
@@ -41,20 +43,30 @@ Genetic variant rs1205 associated with COVID-19 Outcomes: The Strong Heart Study
 DeepGWAS: Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network. 2022+. 
 [bioRxiv 2022.12.20.521277](https://doi.org/10.1101/2022.12.20.521277).
 
-1. (In press with *AOAS*) Jeng XJ, Hu Y, **Sun Q**, Li Y. 
-Weak signal inclusion under dependence and applications in genome-wide association study. 2022+.
-[arXiv:2212.13574](https://arxiv.org/abs/2212.13574).
-
-1. (Submitted) **Sun Q**<sup>*</sup>, Rowland BT<sup>*</sup>, Chen J, Mikhaylova AV, Avery C, Peters U, Lundin J, Matise T, Buyske S, Tao R, Mathias RA, Reiner AP, Auer PL, Cox NJ, Kooperberg C, Thornton TA, Raffield LM, Li Y. 
-Improving polygenic risk prediction in admixed populations by explicitly modeling ancestral-specific effects via GAUDI. 2022+.
-[bioRxiv 2022.10.06.511219](https://doi.org/10.1101/2022.10.06.511219).
-
 1. (Submitted) Horimoto ARVR, **Sun Q**, Browning S, Lash JP, Cai J, Haack K, Cole SA, Thornton TA, Franceschini N.
 Admixture mapping screening of CKD traits and risk factors in U.S. Hispanic individuals from Central America country of origin. 2022+. 
 [medRxiv 2022.06.17.22276554](https://doi.org/10.1101/2022.06.17.22276554)
 {: reversed="reversed"}
 
 ## Published
+
+1. **Sun Q**<sup>*</sup>, Rowland BT<sup>*</sup>, Chen J, Mikhaylova AV, Avery C, Peters U, Lundin J, Matise T, Buyske S, Tao R, Mathias RA, Reiner AP, Auer PL, Cox NJ, Kooperberg C, Thornton TA, Raffield LM, Li Y.
+Improving polygenic risk prediction in admixed populations by explicitly modeling ancestral-specific effects via GAUDI. 
+_Nat Commun._ 2024;15(1):1016.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38310129/);
+[Full-Text](https://www.nature.com/articles/s41467-024-45135-z);
+[GitHub](https://github.com/quansun98/GAUDI).
+
+1. Jeng XJ, Hu Y, **Sun Q**, Li Y. 
+Weak signal inclusion under dependence and applications in genome-wide association study.
+_Ann. Appl. Stat._ 2024;18(1):841-857.
+[Abstract](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/Weak-signal-inclusion-under-dependence-and-applications-in-genome-wide/10.1214/23-AOAS1815.short)
+
+1. Hughes O, Bentley AR, Breeze C, Aguet F, Xu X, Nadkarni G, **Sun Q**, Lin B, Gilliland T, ..., Rotimi C, Morris A, Franceschini N.
+Genome-wide association study for kidney function in individuals of African ancestry and ancestry in the Americas provides insight into effector genes and polygenic prediction.
+_Cell Genomics._ 2023;100468.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38190104/);
+[Full-Text](https://www.sciencedirect.com/science/article/pii/S2666979X23003129?via%3Dihub).
 
 1. **Sun Q**<sup>*</sup>, Rowland BT<sup>*</sup>, Wang W, Miller-Fleming T, Cox NJ, Graff M, Faucon A, Shuey MM, Blue EE, Auer PL, Li Y, Sankaran VG, Reiner AP, Raffield LM. 
 Genetic Examination of Hematological Parameters in SARS-CoV-2 Infection and COVID-19. 
