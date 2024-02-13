@@ -7,6 +7,8 @@ author_profile: true
 
 ## Guest Lecturer
 
+- Spring 2024, **BCB723: Topics in Statistical Genetics and Genomics**, 1 Credit. Genotype imputation.
+
 - Spring 2023, **BCB723: Topics in Statistical Genetics and Genomics**, 1 Credit. HWE and LD. 
 
 - Fall 2022, **BIOS 782: Statistical Methods in Genetic Association Studies**, 3 Credits. GWAS and plinnk.
