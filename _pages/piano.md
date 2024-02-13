@@ -22,7 +22,7 @@ and [Dr. Teddy Robie](https://www.teddyrobie.com/index.html).
 
 **In preparation**
 
-April or May 2024, UNC Chapel Hill
+(Tentative) May 1st 2024, Moeser Auditorium at Hill Hall, UNC Chapel Hill
   * Schubert: *Piano Sonata No. 13 in A Major, D. 664*
   * Beethoven: *Piano Sonata No. 31 in A-Flat Major, Op. 110*
   * Liszt: *Piano Sonata in B Minor, S. 178*
