@@ -7,20 +7,30 @@ author_profile: true
 
 List in [Google Scholar](https://scholar.google.com/citations?user=McM4hl0AAAAJ&hl=en)
 
-Last update: 2/5/2024
+Last update: 4/19/2024
 
-<sup>*</sup> denotes co-first authorship
+<sup>*</sup> denotes co-first authorship.
+\# denotes co-corresponding authorship.
 
 ## Pre-print & Submitted
 
-1. (Submitted) **Sun Q**, Yang Y, Rosen JD, Chen J, Guan W, Jiang M, Wen J, Pace RG, Blackman SM, Bamshad MJ, Gibson RL, Cutting GR, O'Neal WK, Knowles MR, Kooperberg C, Reiner AP, Raffield LM, Carson AP, Rich SS, Rotter JI, Loos RJF, Kenny E, Jaeger BC, Min YI, Fuchsberger C, Li Y.
-MagicalRsq-X: A cross-cohort transferable genotype imputation quality metric. 2024+.
-[GitHub](https://github.com/quansun98/MagicalRsqX).
+1. (Submitted) Tang Y, Du J, Best LG, Haack K, Newman D, Zhang Y, Cole SA, **Sun Q**\#, Franceschini N\#.
+Transferability of Polygenic Scores for C-reactive Protein to American Indians: The Strong Heart Study. 2024+.
 
-1. (Submitted) Hou K, Gogarten S, Kim J, Hua X, Dias J, **Sun Q**, Wang Y, Tan T, Polygenic Risk Methods in Diverse Populations (PRIMED) Consortium Methods Working Group, 
-Atkinson EG, Martin A, Shortt J, Hirbo J, Li Y, Pasaniuc B, Zhang H. 
-Admix-kit: An Integrated Toolkit and Pipeline for Genetic Analyses of Admixed Populations. 2023+.
-[bioRxiv 2023.09.30.560263](https://doi.org/10.1101/2023.09.30.560263).
+1. (Submitted) **Sun Q**<sup>*</sup>, Karafin MS<sup>*</sup>, Garrett ME, Li Y, Ashley-Koch A, Telen MJ.
+A genome-wide association study of alloimmunization in the TOPMed OMG-SCD cohort identifies a locus on chromosome 12. 2024+. 
+
+1. (Submitted) Chen J, Xiong C, **Sun Q**, Gupta G, Halder A, Li D, Li Y. 
+Investigating spatial dynamics in spatial omics data with StarTrail. 2024+.
+
+1. (Submitted) Nagarajan P, Winkler T, Bentley A, Miller C, Kraja A, Schwander K, ..., **Sun Q**, ..., Noordam R, Wang H.
+A Large-Scale Genome-Wide Study of Gene-Sleep Duration Interactions for Blood Pressure in 811,405 Individuals from Diverse Populations.
+2024+.
+[medRxiv 2024.03.07.24303870](https://doi.org/10.1101/2024.03.07.24303870).
+
+1. (Submitted) Sun Z, Yi Z, Wei C, Wang W, Cravedi P, Tedla F, Ward SC, ..., **Sun Q**, ..., Zhang W.
+Genetic polymorphisms of Leukocyte Immunoglobulin-Like Receptor B3 _LILRB3_ gene in African American kidney transplant recipients are associated with post-transplant graft failure. 
+2024+.
 
 1. (Submitted) Yang X<sup>*</sup>, Jones lR<sup>*</sup>, Chen PB<sup>*</sup>, Yang H<sup>*</sup>, Ren X<sup>*</sup>, Zheng L, Li B, Li YE, **Sun Q**, Wen J, Beaman C, Cui X, Li Y, Wang W, Hu M, Ren B, Shen Y. 
 Functional characterization of gene regulatory elements and neuropsychiatric disease-associated risk loci in iPSCs and iPSC-derived neurons. 2023+. 
@@ -49,6 +59,21 @@ Admixture mapping screening of CKD traits and risk factors in U.S. Hispanic indi
 {: reversed="reversed"}
 
 ## Published
+
+1. (Submitted) **Sun Q**, Yang Y, Rosen JD, Chen J, Li X, Guan W, Jiang M, Wen J, Pace RG, Blackman SM, Bamshad MJ, Gibson RL, Cutting GR, O'Neal WK, Knowles MR, Kooperberg C, Reiner AP, Raffield LM, Carson AP, Rich SS, Rotter JI, Loos RJF, Kenny E, Jaeger BC, Min YI, Fuchsberger C, Li Y.
+MagicalRsq-X: A cross-cohort transferable genotype imputation quality metric.
+_Am J Hum Genet._ Published online April 9, 2024.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38636510/);
+[Full-Text](https://doi.org/10.1016/j.ajhg.2024.04.001);
+[GitHub](https://github.com/quansun98/MagicalRsqX).
+
+1. Hou K, Gogarten S, Kim J, Hua X, Dias J, **Sun Q**, Wang Y, Tan T, Polygenic Risk Methods in Diverse Populations (PRIMED) Consortium Methods Working Group,
+Atkinson EG, Martin A, Shortt J, Hirbo J, Li Y, Pasaniuc B, Zhang H.
+Admix-kit: An Integrated Toolkit and Pipeline for Genetic Analyses of Admixed Populations.
+_Bioinformatics._ 2024;40(4):btae148. 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38490256/);
+[Full-Text](https://doi.org/10.1093/bioinformatics/btae148);
+[GitHub](https://github.com/KangchengHou/admix-kit).
 
 1. **Sun Q**<sup>*</sup>, Rowland BT<sup>*</sup>, Chen J, Mikhaylova AV, Avery C, Peters U, Lundin J, Matise T, Buyske S, Tao R, Mathias RA, Reiner AP, Auer PL, Cox NJ, Kooperberg C, Thornton TA, Raffield LM, Li Y.
 Improving polygenic risk prediction in admixed populations by explicitly modeling ancestral-specific effects via GAUDI. 

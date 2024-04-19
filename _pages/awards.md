@@ -5,6 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
+1. **Anne Cynthia Price Travel Award** by [*UNC Chapel Hill*](https://sph.unc.edu), Mar. 2024.
+
 1. **IGES 2023 Roger Williams Memorial Award** (Best Graduate Student Presentation) by [*International Genetic Epidemiology Society*](https://www.geneticepi.org), Nov. 2023.
 
 1. **ASHG 2023 Reviewers' Choice Award** (Scored Top 10%) by [*American Society of Human Genetics*](https://www.ashg.org), Aug. 2023.  
