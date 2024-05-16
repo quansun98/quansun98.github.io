@@ -46,9 +46,6 @@ Genetics of cardiovascular outcomes in individuals with chronic kidney disease: 
 Gene Expression and Splicing QTL Analysis of Blood Cells in African American Participants from the Jackson Heart Study. 2023+.
 [bioRxiv 2023.04.26.538455](https://doi.org/10.1101/2023.04.26.538455).
 
-1. (Submitted) Best LG, Erdei E, Haack K, Kent JW, Malloy K, Newman DE, O'Leary MA, O'Leary RA, **Sun Q**, Navas-Acien A, Franceschini N, Cole SA.
-Genetic variant rs1205 associated with COVID-19 Outcomes: The Strong Heart Study and Strong Heart Family Study. 2023+.
-
 1. (Submitted) Wen J, Li G, Chen J, **Sun Q**, Liu W, Guan W, Lai B, Szatkiewicz JP, He X, Sullivan PF, Li Y.
 DeepGWAS: Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network. 2022+. 
 [bioRxiv 2022.12.20.521277](https://doi.org/10.1101/2022.12.20.521277).
@@ -60,12 +57,19 @@ Admixture mapping screening of CKD traits and risk factors in U.S. Hispanic indi
 
 ## Published
 
-1. (Submitted) **Sun Q**, Yang Y, Rosen JD, Chen J, Li X, Guan W, Jiang M, Wen J, Pace RG, Blackman SM, Bamshad MJ, Gibson RL, Cutting GR, O'Neal WK, Knowles MR, Kooperberg C, Reiner AP, Raffield LM, Carson AP, Rich SS, Rotter JI, Loos RJF, Kenny E, Jaeger BC, Min YI, Fuchsberger C, Li Y.
+1. Best LG, Erdei E, Haack K, Kent JW, Malloy K, Newman DE, O'Leary MA, O'Leary RA, **Sun Q**, Navas-Acien A, Franceschini N, Cole SA.
+Genetic variant rs1205 associated with COVID-19 Outcomes: The Strong Heart Study and Strong Heart Family Study.
+_PLoS One._ 2024;19(4):e0302464. Published 2024 Apr 25.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38662664/);
+[Full-Text](https://doi.org/10.1371/journal.pone.0302464).
+
+1. **Sun Q**, Yang Y, Rosen JD, Chen J, Li X, Guan W, Jiang M, Wen J, Pace RG, Blackman SM, Bamshad MJ, Gibson RL, Cutting GR, O'Neal WK, Knowles MR, Kooperberg C, Reiner AP, Raffield LM, Carson AP, Rich SS, Rotter JI, Loos RJF, Kenny E, Jaeger BC, Min YI, Fuchsberger C, Li Y.
 MagicalRsq-X: A cross-cohort transferable genotype imputation quality metric.
-_Am J Hum Genet._ Published online April 9, 2024.
+_Am J Hum Genet._ 2024;111(5):990-995. 
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/38636510/);
 [Full-Text](https://doi.org/10.1016/j.ajhg.2024.04.001);
-[GitHub](https://github.com/quansun98/MagicalRsqX).
+[GitHub](https://github.com/quansun98/MagicalRsqX);
+[News](https://www.ashg.org/ajhg/inside-ajhg-with-yun-li-and-quan-sun/).
 
 1. Hou K, Gogarten S, Kim J, Hua X, Dias J, **Sun Q**, Wang Y, Tan T, Polygenic Risk Methods in Diverse Populations (PRIMED) Consortium Methods Working Group,
 Atkinson EG, Martin A, Shortt J, Hirbo J, Li Y, Pasaniuc B, Zhang H.

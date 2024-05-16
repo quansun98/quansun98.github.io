@@ -20,16 +20,12 @@ and [Dr. Teddy Robie](https://www.teddyrobie.com/index.html).
 
 ## Piano Recital
 
-**In preparation**
-
-(Tentative) May 1st 2024, Moeser Auditorium at Hill Hall, UNC Chapel Hill
+May 1st 2024, Moeser Auditorium at Hill Hall, UNC Chapel Hill
   * Schubert: *Piano Sonata No. 13 in A Major, D. 664*
   * Beethoven: *Piano Sonata No. 31 in A-Flat Major, Op. 110*
   * Liszt: *Piano Sonata in B Minor, S. 178*
-
-**Past recital**
  
-June 2019, Zi-Jin-Gang Theater of Zhejiang University. [News (in Chinese language)](http://i.cztv.com/view/13270524.html).
+June 14th, 2019, Zi-Jin-Gang Theater of Zhejiang University. [News (in Chinese language)](http://i.cztv.com/view/13270524.html).
   * Beethoven: *Piano Sonata No. 23 in F Minor, Op. 57 "Appassionata": I. Allergo assai*
   * Chopin: *Ballade No. 4 in F Minor, Op. 52*
   * Liszt: *Rhapsody Espagnole, S.254*
