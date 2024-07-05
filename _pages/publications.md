@@ -7,18 +7,18 @@ author_profile: true
 
 List in [Google Scholar](https://scholar.google.com/citations?user=McM4hl0AAAAJ&hl=en)
 
-Last update: 5/16/2024
+Last update: 7/5/2024
 
 <sup>*</sup> denotes co-first authorship.
 \# denotes co-corresponding authorship.
 
 ## Pre-print & Submitted
 
+1. (Submitted) Wendland Z<sup>*</sup>, Teerlink CC<sup>*</sup>, Pridgen KM, Lo S, Sayed C, Straalen KV, Tcheandjieu C, Tsao PS, Chang KM, Li Y, Mohlke KL, **Sun Q**, Lynch JA, Goldfarb N.
+Genomic link between hidradenitis suppurativa and cardiovascular disease: A comprehensive genome-wide association study from the VA’s Million Veteran Program. 2024+.
+
 1. (Submitted) Tang Y, Du J, Best LG, Haack K, Newman D, Zhang Y, Cole SA, **Sun Q**\#, Franceschini N\#.
 Transferability of Polygenic Scores for C-reactive Protein to American Indians: The Strong Heart Study. 2024+.
-
-1. (Submitted) **Sun Q**<sup>*</sup>, Karafin MS<sup>*</sup>, Garrett ME, Li Y, Ashley-Koch A, Telen MJ.
-A genome-wide association study of alloimmunization in the TOPMed OMG-SCD cohort identifies a locus on chromosome 12. 2024+. 
 
 1. (Submitted) Chen J, Xiong C, **Sun Q**, Gupta G, Halder A, Li D, Li Y. 
 Investigating spatial dynamics in spatial omics data with StarTrail. 2024+.
@@ -50,12 +50,21 @@ Gene Expression and Splicing QTL Analysis of Blood Cells in African American Par
 DeepGWAS: Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Network. 2022+. 
 [bioRxiv 2022.12.20.521277](https://doi.org/10.1101/2022.12.20.521277).
 
-1. (Submitted) Horimoto ARVR, **Sun Q**, Browning S, Lash JP, Cai J, Haack K, Cole SA, Thornton TA, Franceschini N.
-Admixture mapping screening of CKD traits and risk factors in U.S. Hispanic individuals from Central America country of origin. 2022+. 
-[medRxiv 2022.06.17.22276554](https://doi.org/10.1101/2022.06.17.22276554)
 {: reversed="reversed"}
 
 ## Published
+
+1. **Sun Q**<sup>*</sup>, Karafin MS<sup>*</sup>, Garrett ME, Li Y, Ashley-Koch A, Telen MJ. 
+A genome-wide association study of alloimmunization in the TOPMed OMG-SCD cohort identifies a locus on chromosome 12. 
+_Transfusion._ Published online July 5, 2024.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38966903/);
+[Full-Text](https://doi.org/10.1111/trf.17944). 
+
+1. Horimoto ARVR, **Sun Q**, Browning S, Lash JP, Daviglus ML, Cai J, Haack K, Cole SA, Thornton TA, Browning SR, Franceschini N.
+Admixture Mapping of Chronic Kidney Disease and Risk Factors in Hispanic/Latino Individuals From Central America Country of Origin.
+_Circ Genom Precis Med._ Published online July 1, 2024.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38950085/);
+[Full-Text](https://doi.org/10.1161/CIRCGEN.123.004314).
 
 1. Best LG, Erdei E, Haack K, Kent JW, Malloy K, Newman DE, O'Leary MA, O'Leary RA, **Sun Q**, Navas-Acien A, Franceschini N, Cole SA.
 Genetic variant rs1205 associated with COVID-19 Outcomes: The Strong Heart Study and Strong Heart Family Study.
