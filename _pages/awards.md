@@ -5,6 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
+1. **Barry H. Margolin Dissertation Award** by [*UNC Chapel Hill*](https://sph.unc.edu/bios), Apr. 2025.
+
 1. **Anne Cynthia Price Travel Award** by [*UNC Chapel Hill*](https://sph.unc.edu), Mar. 2024.
 
 1. **IGES 2023 Roger Williams Memorial Award** (Best Graduate Student Presentation) by [*International Genetic Epidemiology Society*](https://www.geneticepi.org), Nov. 2023.
