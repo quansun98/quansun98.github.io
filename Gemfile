@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
 group :jekyll_plugins do
   # gem "jekyll-archives"
@@ -7,7 +7,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-redirect-from'
   gem 'jemoji'
-  gem 'webrick'
+  gem 'webrick', '~> 1.8'
 end
 
 gem 'github-pages'
