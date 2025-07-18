@@ -15,7 +15,7 @@ Last update: 7/18/2025
 
 1. **Emory University**, Department of Biostatistics, Atlanta, Mar. 2024.
 
-1. **University of Alabama at Birmingham, Department of Biostatistics, Birmingham, Feb. 2024.
+1. **University of Alabama at Birmingham**, Department of Biostatistics, Birmingham, Feb. 2024.
 
 1. **University of Pennsylvania**, Department of Biostatistics, Epidemiology and Informatics, Philadelphia, Jan. 2024. 
 
