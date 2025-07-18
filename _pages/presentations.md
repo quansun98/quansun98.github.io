@@ -5,8 +5,19 @@ permalink: /presentations/
 author_profile: true
 ---
 
-Last update: 11/7/2023
+Last update: 7/18/2025
 
+1. **National Research Council (Italy)**, Institute for Genetic and Biomedical Research, Virtual, Dec. 2024.
+
+1. **Children's Hospital of Philadelphia**, Center for Computational and Genomic Medicine, Philadelphia, May. 2024.
+
+1. **Dana-Farber Cancer Institute**, Department of Data Science, Boston, Apr. 2024.
+
+1. **Emory University**, Department of Biostatistics, Atlanta, Mar. 2024.
+
+1. **University of Alabama at Birmingham, Department of Biostatistics, Birmingham, Feb. 2024.
+
+1. **University of Pennsylvania**, Department of Biostatistics, Epidemiology and Informatics, Philadelphia, Jan. 2024. 
 
 1. **IGES 2023 Meeting**, Nashville, Nov. 2023 (15min Talk).
 MagicalRsq-X: A cross-cohort transferable genotype imputation quality metric.

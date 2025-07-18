@@ -39,7 +39,7 @@ improving polygenic risk score (PRS) prediction accuracy
 inferring cell-type-specific gene expression profile from bulk data
 (e.g., [EPIC-unmix](https://www.biorxiv.org/content/10.1101/2024.05.23.595514v1)) 
 and integrating multi-omics data for risk prediction and biological interpretation.
-(e.g., [PEARL](https://www.biorxiv.org/content/10.1101/2025.05.19.654754v1.abstract), ([VAMPIRE](https://pubmed.ncbi.nlm.nih.gov/35047852/))). 
+(e.g., [PEARL](https://www.biorxiv.org/content/10.1101/2025.05.19.654754v1.abstract), [VAMPIRE](https://pubmed.ncbi.nlm.nih.gov/35047852/)). 
 After joining CHOP/Penn, I have been working with [Dr. Yi Xing](https://www.research.chop.edu/people/yi-xing) on developing statistical models
 and computational pipelines to analyze RNA splicing powered by long-read RNA sequencing (lrRNA-seq) data, 
 as well as integrating with genetics data to uncover phenotype-transcriptomics-genomics relationships.
