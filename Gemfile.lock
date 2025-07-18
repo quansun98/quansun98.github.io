@@ -310,7 +310,7 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-sitemap
   jemoji
-  webrick (~> 1.8)
+  webrick
 
 BUNDLED WITH
    2.7.0
