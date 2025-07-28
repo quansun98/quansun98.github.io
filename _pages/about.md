@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome to my homepage!
 
-I am currently a Research Assistant Professor in [Department of Pathology and Laboratory Medicine](https://pathology.med.upenn.edu) 
+I am currently a [Research Assistant Professor](https://www.med.upenn.edu/apps/faculty/index.php/g275/p9187091) in [Department of Pathology and Laboratory Medicine](https://pathology.med.upenn.edu) 
 at the [University of Pennsylvania](https://www.upenn.edu) (Penn),
 additionally affiliated with [Center for Computational and Genomic Medicine](https://www.research.chop.edu/center-for-computational-and-genomic-medicine) 
 at the [Children's Hospital of Philadelphia Research Institute](https://www.research.chop.edu) (CHOP).
