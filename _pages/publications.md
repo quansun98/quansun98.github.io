@@ -182,6 +182,7 @@ _Am J Hum Genet._ 2024;111(5):990-995.
 [Full-Text](https://doi.org/10.1016/j.ajhg.2024.04.001);
 [GitHub](https://github.com/quansun98/MagicalRsqX);
 [News](https://www.ashg.org/ajhg/inside-ajhg-with-yun-li-and-quan-sun/).
+[Interview](https://insights.ashg.org/e3t/Ctc/L2+113/d5sj1004/MWHZc94p_FZV94ss47KhjZmW5SJqyG5zDhVQN8wLL6q3qgz0W8wLKSR6lZ3mkW800xHL2sgqyKW2hR08G5Q2RDmW7r6lKw6l3S4tW7fc7Wf935TlpVz3Hzq1j9gy-W1-rvfB8zr59WW1DnFzR1vTzmrW4GwzKD3YvTybN7D36mgt70CNW8q0xRK2mzqGzN5_j-nD-svtzW3Gv3Dn3DZ6SyW3rGhzJ30_45KW4QWvdL7GvsD8W8-M6dR4jHGqfW53gJNR62p1DfN1FmmylyrPRlW48ZnXW2tk7HdW2Gp4dz7tZFyfW6-3sST8w2L7rW3yMh8L6H5SWQW8sBS809dqhrfW32DSZT3YHG-_W7qpgRB2DyvPvW7CGY8j7rkZKxW4rLW6x5YPjd9W3sB3b4651178W5LLwkN3CM4Lhf6X1Sgj04)
 
 1. Hou K, Gogarten S, Kim J, Hua X, Dias J, **Sun Q**, Wang Y, Tan T, Polygenic Risk Methods in Diverse Populations (PRIMED) Consortium Methods Working Group,
 Atkinson EG, Martin A, Shortt J, Hirbo J, Li Y, Pasaniuc B, Zhang H.
