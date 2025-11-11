@@ -7,24 +7,17 @@ author_profile: true
 
 List in [Google Scholar](https://scholar.google.com/citations?user=McM4hl0AAAAJ&hl=en)
 
-Last update: 7/17/2025
+Last update: 11/11/2025
 
 <sup>*</sup> denotes co-first authorship.
 \# denotes co-corresponding authorship.
 
 ## Pre-print & Submitted
 
-1. (Submitted) Zhao Y, Chen Y, Du J, **Sun Q**, Wang R, Chen C.
-DREAM-GNN: Dual-route embedding-aware graph neural networks for drug repositioning. 2025+.
-[bioRxiv 2025.07.07.663530](https://doi.org/10.1101/2025.07.07.663530).
 
 1. (Submitted) Zhao Y<sup>*</sup>, Chen Y<sup>*</sup>, Yu Y, Liu X, Du J, Wen J, Liao C, **Sun Q**, Wang R, Chen C.
 MuSHIN: A multi-way SMILES-based hypergraph inference network for metabolic model reconstruction. 2025+.
 [bioRxiv 2025.07.07.663526](https://doi.org/10.1101/2025.07.07.663526).
-
-1. (Submitted) Peterson K, Powe CE, **Sun Q**, Azure C, Azure T, Davis H, Gourneau K, Larocque S, Poitra C, Poitra S, Standish S, Parisien TJ, Morin KJ, Best LG.
-A Polygenic Risk Score Associated with Gestational Diabetes Mellitus in an American Indian Population.  2025+.
-[preprint](https://doi.org/10.20944/preprints202506.2195.v1).
 
 1. (Submitted) Zhao Q, Du J, Zhou M, Wang X\#, **Sun Q**\#, Chen C\#.
 PEARL: Integrative multi-omics classification and omics feature discovery via deep graph learning. 2025+.
@@ -35,7 +28,7 @@ Improving polygenic risk prediction of renal function by removing biomarker-spec
 [Research Square, rs. 3. rs-6329094](https://www.researchsquare.com/article/rs-6329094/v1).
 
 1. (Submitted) Hu X, Araujo DS, Khunsriraksakul C, Wang L, **Sun Q**, Wen J, Zhou L, Ekunwe L, Lange LA, ..., Im HK, Manichaikual A. 
-Multi-ancestry transcriptome prediction with functionally informed variants in TOPMed MESA improves performance of transcriptome-wide association studies. 2025+.
+Multi-ancestry transcriptome prediction with functionally informed variants in TOPMed MES improves performance of transcriptome-wide association studies. 2025+.
 [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5194962).
 
 1. (Submitted) Guo B, Cai Y, Kim D, Smit RAJ, Wang Z, ..., **Sun Q**, ..., Highland HM, Darst BF.
@@ -49,10 +42,6 @@ A Large-Scale Genome-wide Association Study of Blood Pressure Accounting for Gen
 1. (Submitted) Nicholas JC, Katz D, Tahir UA, Debban CL, ..., **Sun Q**, ..., Taylor KD, Raffield LM.
 Cross-Ancestry Comparison of Aptamer and Antibody Protein Measures. 2025+.
 [Research Square rs. 3. rs-5968391](https://www.researchsquare.com/article/rs-5968391/v1).
-
-1. (Submitted) Li X, Kharitonova E, Pang M, Wen J, Zhou LY, Raffield LM, Zhou H, Yao H, Chen C, **Sun Q**\#, Li Y\#.
-Variational Autoencoder-based Model Improves Polygenic Prediction in Blood Cell Traits. 2025+.
-[bioRxiv 2025.01.13.632820](https://doi.org/10.1101/2025.01.13.632820).
 
 1. (Submitted) Liu C<sup>*</sup>, Joehanes R<sup>*</sup>, Ma J<sup>*</sup>, Xie J, Yang J, Wang M, Huan T, Hwang S, Wen J, 
 **Sun Q**, Cumhur DY, Heard-Costa N, Orchard P, Carson AP, Raffield LM, Reiner AP, Li Y, O'Connor G, Murabito JM, Munson P, Levy D.
@@ -91,9 +80,53 @@ DeepGWAS: Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Ne
 
 ## Published
 
+
+1. Zhao Y, Chen Y, Du J, **Sun Q**, Wang R, Chen C.
+Dual-route embedding-aware graph neural networks for drug repositioning.
+_Brief Bioinform._ 2025;26(5):bbaf555.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41139923);
+[Full-Text](https://doi.org/10.1093/bib/bbaf555).
+
+1. Drzymalla E, Avery CL, Palta P, Reiner AP, **Sun Q**, Raffield LM. 
+Association between neutrophil to lymphocyte ratio and Alzheimer’s disease and related dementias in large biobank cohorts.
+_J Alzheimers Dis._ Published online October 23, 2025. doi:10.1177/13872877251386813.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41129721);
+[Full-Text](https://doi.org/10.1177/13872877251386813).
+
+1. Guo B, Cai Y, Kim D, Smit RAJ, Wang Z, ..., **Sun Q**, ..., Highland HM, Darst BF.
+Polygenic risk score for type 2 diabetes shows context-dependent effects across populations.
+_Nat Commun._ 2025;16(1):8632.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41034193);
+[Full-Text](https://www.nature.com/articles/s41467-025-63546-4).
+
+1. **Sun Q**, Li Y.
+Advances in haplotype phasing and genotype imputation.
+_Nat Rev Genet._ Published online September 24, 2025. doi:10.1038/s41576-025-00895-2.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/40993437);
+[Full-Text](https://www.nature.com/articles/s41576-025-00895-2).
+
+1. Peterson K, Powe CE, **Sun Q**, Azure C, Azure T, Davis H, Gourneau K, Larocque S, Poitra C, Poitra S, Standish S, Parisien TJ, Morin KJ, Best LG.
+Polygenic Risk Score Associated with Gestational Diabetes Mellitus in an American Indian Population.
+_J Pers Med._ 2025;15(9):395.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41003098);
+[Full-Text](https://doi.org/10.3390/jpm15090395).
+
+1. Reynolds KM, **Sun Q**, Zhang Y, Umans J, Cole SA, Morris AP, Franceschini, N.
+Diabetes Genetic Clusters and Clinical Outcomes in American Indians.
+_Diabetes._ 2025;db250322.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/40824997);
+[Full-Text](https://doi.org/10.2337/db25-0322).
+
+1. Li X, Kharitonova E, Pang M, Wen J, Zhou LY, Raffield LM, Zhou H, Yao H, Chen C, Li Y\#, **Sun Q**\#. 
+Variational Autoencoder-based Model Improves Polygenic Prediction in Blood Cell Traits. 
+_HGG Adv._ 2025;6(4):100490.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/40783786);
+[Full-Text](https://doi.org/10.1016/j.xhgg.2025.100490);
+[GitHub](https://github.com/ahalxq/vaeprs).
+
 1. Broadaway KA<sup>*</sup>, **Sun Q**<sup>*</sup>, Edmiston SN, Currin KW, Vadlamudi S, Miller-Fleming TW, Shi Y, Fajgenbaum K, Melendez-Gonzalez M, Bui H, Blum FR, Westerkam LL, Shams R, Mallela T, Levitt B, Lin L, Hao H, Memili A, Straub P, Zhou W, Harris KM, Martin A, Cox NJ, Liu Z, Thomas N, Li Y, Mohlke KL, Sayed CJ.
 Genomic loci and molecular genetic mechanisms for hidradenitis suppurativa.
-_Br J Dermatol._ Published online July 12, 2025. doi:10.1093/bjd/ljaf277.
+_Br J Dermatol._ 2025;193(5):948-958.
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/40650879/);
 [Full-Text](https://doi.org/10.1093/bjd/ljaf277).
 

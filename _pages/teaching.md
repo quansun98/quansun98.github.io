@@ -5,11 +5,21 @@ permalink: /teaching/
 author_profile: true
 ---
 
+# At University of Pennsylvania 
+
 ## Guest Lecturer
 
-- Spring 2024, **BCB723: Topics in Statistical Genetics and Genomics**, 1 Credit. Genotype imputation.
+- Spring 2025, **BSTA 787: Methods for Statistical Genetics and Genomics in Complex Human Diseases**, 
+1 Credit. Genotype imputation.
 
-- Spring 2023, **BCB723: Topics in Statistical Genetics and Genomics**, 1 Credit. HWE and LD. 
+
+# At University of North Carolina Chapel Hill
+
+## Guest Lecturer
+
+- Spring 2024, **BCB 723: Topics in Statistical Genetics and Genomics**, 1 Credit. Genotype imputation.
+
+- Spring 2023, **BCB 723: Topics in Statistical Genetics and Genomics**, 1 Credit. HWE and LD. 
 
 - Fall 2022, **BIOS 782: Statistical Methods in Genetic Association Studies**, 3 Credits. GWAS and plinnk.
 
