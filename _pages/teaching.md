@@ -5,17 +5,19 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# At University of Pennsylvania 
 
-## Guest Lecturer
+
+## University of Pennsylvania 
+
+### Guest Lecturer
 
 - Spring 2025, **BSTA 787: Methods for Statistical Genetics and Genomics in Complex Human Diseases**, 
 1 Credit. Genotype imputation.
 
 
-# At University of North Carolina Chapel Hill
+## University of North Carolina Chapel Hill
 
-## Guest Lecturer
+### Guest Lecturer
 
 - Spring 2024, **BCB 723: Topics in Statistical Genetics and Genomics**, 1 Credit. Genotype imputation.
 
@@ -24,7 +26,7 @@ author_profile: true
 - Fall 2022, **BIOS 782: Statistical Methods in Genetic Association Studies**, 3 Credits. GWAS and plinnk.
 
 
-## Teaching Assistant
+### Teaching Assistant
 
 - Fall 2022, **BIOS 782: Statistical Methods in Genetic Association Studies**, 3 Credits.
 
@@ -33,13 +35,13 @@ author_profile: true
 - Spring 2022, **BIOS 673: Probability and Statistical Inference II**, 4 Credits.
 
 
-## Grader
+### Grader
 
 - Spring 2023, **BIOS 673: Probability and Statistical Inference II**, 4 Credits.
 
 - Fall 2022, **BIOS 667: Applied Longitudinal Data Analysis**, 3 Credits.
 
-## Peer Tutoring
+### Peer Tutoring
 
 - Fall 2022, **BIOS 762: Theory and Applications of Linear and Generalized Linear Models**, 4 Credits.
 Peer tutoring of a classmate who failed the Ph.D. comprehensive exam (Theory, Day 2, BIOS 762) in July 2021. 
