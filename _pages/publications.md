@@ -7,62 +7,27 @@ author_profile: true
 
 List in [Google Scholar](https://scholar.google.com/citations?user=McM4hl0AAAAJ&hl=en)
 
-Last update: 11/11/2025
+Last update: 7/11/2026
 
 <sup>*</sup> denotes co-first authorship.
 \# denotes co-corresponding authorship.
 
 ## Pre-print & Submitted
 
+1. (Submitted) Wang H, Nagarajan P, Miller CL, Bentley AR, Noordam R, Westerman KE, ..., **Sun Q**, ..., Meigs JB. Gene-by-Sleep Duration Interaction for Glycemic Traits in over 480,000 Individuals. 2026+.
+[medRxiv](https://doi.org/10.64898/2026.03.02.26346498).
 
-1. (Submitted) Zhao Y<sup>*</sup>, Chen Y<sup>*</sup>, Yu Y, Liu X, Du J, Wen J, Liao C, **Sun Q**, Wang R, Chen C.
-MuSHIN: A multi-way SMILES-based hypergraph inference network for metabolic model reconstruction. 2025+.
-[bioRxiv 2025.07.07.663526](https://doi.org/10.1101/2025.07.07.663526).
+1. (Submitted) Du J, Horimoto ARVR, Best LG, Zhang Y, Cole SA, Umans JG, Franceschini N\#, **Sun Q**\#. 
+Bridging the Genomic Equity Gap with Context-Enhanced Risk Stratification in American Indians: the Strong Heart Study. 2026+. 
+[medRxiv 2026.02.08.26345859](https://doi.org/10.64898/2026.02.08.26345859).
 
-1. (Submitted) Zhao Q, Du J, Zhou M, Wang X\#, **Sun Q**\#, Chen C\#.
-PEARL: Integrative multi-omics classification and omics feature discovery via deep graph learning. 2025+.
-[bioRxiv 2025.05.19.654754](https://doi.org/10.1101/2025.05.19.654754).
+1. (Submitted) Zhang M, Brown M, Bentley A, Winkler T, noordam R, Nagarajan P, Guo B, Lee S, Schwander K, Wang W, ..., **Sun Q**, ..., Wang H, de Vries P, Wang G, Rao D, Morrison A, Chen H. 
+Large-Scale Gene-Smoking Interactions and Fine Mapping Study Identifies Multiple Novel Blood Pressure Loci in over 1 Million Individuals. 2026+.
+[medRxiv 2025.10.06.25337440v1](https://www.medrxiv.org/content/10.1101/2025.10.06.25337440v1).
 
 1. (Submitted) Du J<sup>*</sup>, **Sun Q**<sup>*</sup>, Zhou LY, Franceschini N, Cox NJ, Li Y, Shuey MJ.
 Improving polygenic risk prediction of renal function by removing biomarker-specific effects. 2025+.
 [Research Square, rs. 3. rs-6329094](https://www.researchsquare.com/article/rs-6329094/v1).
-
-1. (Submitted) Hu X, Araujo DS, Khunsriraksakul C, Wang L, **Sun Q**, Wen J, Zhou L, Ekunwe L, Lange LA, ..., Im HK, Manichaikual A. 
-Multi-ancestry transcriptome prediction with functionally informed variants in TOPMed MES improves performance of transcriptome-wide association studies. 2025+.
-[preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5194962).
-
-1. (Submitted) Guo B, Cai Y, Kim D, Smit RAJ, Wang Z, ..., **Sun Q**, ..., Highland HM, Darst BF.
-Type 2 diabetes polygenic risk score demonstrates context-dependent effects and associations with type 2 diabetes-related risk factors and complications across diverse populations. 2025+. 
-[medRxiv 2025.02.15.25322341](https://doi.org/10.1101/2025.02.15.25322341).
-
-1. (Submitted) Lee S, Miller C, Bentley AR, Brown MR, Nagarajan P, Noordam R, ..., **Sun Q**, ..., Rao DC, Chen H, Gauderman WJ, Bierut L, Winkler TW, Fornage M.
-A Large-Scale Genome-wide Association Study of Blood Pressure Accounting for Gene-Depressive Symptomatology Interactions in 564,680 Individuals from Diverse Populations. 2025+.
-[Research Square, rs. 3. rs-6025759](https://www.researchsquare.com/article/rs-6025759/v1).
-
-1. (Submitted) Nicholas JC, Katz D, Tahir UA, Debban CL, ..., **Sun Q**, ..., Taylor KD, Raffield LM.
-Cross-Ancestry Comparison of Aptamer and Antibody Protein Measures. 2025+.
-[Research Square rs. 3. rs-5968391](https://www.researchsquare.com/article/rs-5968391/v1).
-
-1. (Submitted) Liu C<sup>*</sup>, Joehanes R<sup>*</sup>, Ma J<sup>*</sup>, Xie J, Yang J, Wang M, Huan T, Hwang S, Wen J, 
-**Sun Q**, Cumhur DY, Heard-Costa N, Orchard P, Carson AP, Raffield LM, Reiner AP, Li Y, O'Connor G, Murabito JM, Munson P, Levy D.
-Integrating whole genome and transcriptome sequencing to characterize the genetic architecture of isoform variation and its implications for health and disease. 2025+. 
-[medRxiv 2024.12.04.24318434](https://doi.org/10.1101/2024.12.04.24318434).
-
-1. (Submitted) Tang C<sup>*</sup>, **Sun Q**<sup>*</sup>, Zeng X, Yang X, Liu F, Zhao J, Shen Y, Liu B, Wen J, Li Y.
-Cell-type specific inference from bulk RNA-sequencing data by integrating single cell reference profiles via EPIC-unmix. 2025+.
-[bioRxiv 2024.05.23.595514](https://doi.org/10.1101/2024.05.23.595514).
-
-1. (Submitted) Noordam R, Wang W, Nagarajan P, Wang H, Brown MR, Bentley AR, Hui Q, ..., **Sun Q**,  ..., van Heemst D.
-A Large-Scale Genome-Wide Gene-Sleep Interaction Study in 732,564 Participants Identifies Lipid Loci Explaining Sleep-Associated Lipid Disturbances. 2025+.
-[medRxiv 2024.09.02.24312466](https://doi.org/10.1101/2024.09.02.24312466)
-
-1. (Submitted) Wendland Z<sup>*</sup>, Teerlink CC<sup>*</sup>, Pridgen KM, Lo S, Sayed C, Straalen KV, Tcheandjieu C, Tsao PS, Chang KM, Li Y, Mohlke KL, **Sun Q**, Lynch JA, Goldfarb N.
-A genome-wide association study of hidradenitis suppurativa from the VA's Million Veteran Program. 2025+.
-[medRxiv 2025.06.23.25330121](https://doi.org/10.1101/2025.06.23.25330121).
-
-1. (Submitted) Chen J, Xiong C, **Sun Q**, Gupta G, Halder A, Li D, Li Y. 
-Investigating spatial dynamics in spatial omics data with StarTrail. 2024+.
-[bioRxiv 2024.05.08.593025](https://doi.org/10.1101/2024.05.08.593025).
 
 1. (Submitted) Yang X<sup>*</sup>, Jones lR<sup>*</sup>, Chen PB<sup>*</sup>, Yang H<sup>*</sup>, Ren X<sup>*</sup>, Zheng L, Li B, Li YE, **Sun Q**, Wen J, Beaman C, Cui X, Li Y, Wang W, Hu M, Ren B, Shen Y. 
 Functional characterization of gene regulatory elements and neuropsychiatric disease-associated risk loci in iPSCs and iPSC-derived neurons. 2023+. 
@@ -81,6 +46,95 @@ DeepGWAS: Enhance GWAS Signals for Neuropsychiatric Disorders via Deep Neural Ne
 ## Published
 
 
+1. (Submitted) Chen J, Xiong C, **Sun Q**, Song Y, Wang GW, Gupta G, Halder A, Li D, Li Y. 
+Investigating spatial dynamics in spatial omics data with StarTrail.
+_J Am Stat Assoc._ 2026;7:1-12.
+[Full-Text](https://www.tandfonline.com/doi/full/10.1080/01621459.2026.2654225).
+
+1. Ockerman FP, Chen BD, **Sun Q**, Kharitonova EV, Chen C, Zhou LY, ..., Li Y, Tao R. 
+An Efficient Lasso Framework for Admixture-Aware Polygenic Scores. 
+_HGG advances_. 2026;7(3):100628.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42157490/);
+[Full-Text](https://doi.org/10.1016/j.xhgg.2026.100628).
+
+1. Du J<sup>*</sup>, Zhou M<sup>*</sup>, Wang H, Wang J, Raffield, LM, Zhou R, Li Y\#, Chen C\#, **Sun Q**\#.  
+Multi-omics integration predicts the incidence of 17 diseases in the UK Biobank.
+_Nat Commun._ Published online May 9, 2026. 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42106324/);
+[Full-Text](https://doi.org/10.1038/s41467-026-73017-z).
+
+1. Zhao Q, Du J, Zhou M, Wang X\#, **Sun Q**\#, Chen C\#.
+PEARL: Integrative multi-omics classification and omics feature discovery via deep graph learning.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/42108553/);
+[Full-Text](https://doi.org/10.1093/bioinformatics/btag253).
+
+1. Hu X, Araujo DS, Khunsriraksakul C, Wang L, **Sun Q**, Wen J, Zhou L, Ekunwe L, Lange LA, ..., Im HK, Manichaikual A. 
+Multi-ancestry transcriptome prediction with functionally informed variants in TOPMed MESA improves performance of transcriptome-wide association studies.
+_Am J Hum Genet._ 2026;113(4):828-841.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41932314/);
+[Full-Text](https://www.cell.com/ajhg/fulltext/S0002-9297(26)00118-7).
+
+1. Zhao Y<sup>*</sup>, Chen Y<sup>*</sup>, Yu Y, Liu X, Du J, Wen J, Liao C, **Sun Q**, Wang R, Chen C.
+A multi-way SMILES-based hypergraph inference network for metabolic model reconstruction.
+_Commun Biol._ 2026;9(1):531.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41786960/);
+[Full-Text](https://doi.org/10.1038/s42003-026-09761-1).
+
+1. Wendland Z<sup>*</sup>, Teerlink CC<sup>*</sup>, Pridgen KM, Lo S, Sayed C, Straalen KV, Tcheandjieu C, Tsao PS, Chang KM, Li Y, Mohlke KL, **Sun Q**, Lynch JA, Goldfarb N.
+A genome-wide association study of hidradenitis suppurativa from the VA's Million Veteran Program.
+_Dermatology._ Published online February 3, 2026.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41632728/);
+[Full-Text](https://doi.org/10.1159/000550386).
+
+1. Nicholas JC, Katz D, Tahir UA, Debban CL, ..., **Sun Q**, ..., Taylor KD, Raffield LM.
+Cross-ancestry comparison of aptamer and antibody protein measures.
+_Nat Commun._ 2026;17(1):1054.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41571639/);
+[Full-Text](https://doi.org/10.1038/s41467-025-67814-1).
+
+1. Lee S, Miller C, Bentley AR, Brown MR, Nagarajan P, Noordam R, ..., **Sun Q**, ..., Rao DC, Chen H, Gauderman WJ, Bierut L, Winkler TW, Fornage M.
+Large-scale blood pressure GWAS accounting for gene-depression interactions in 564,680 individuals from diverse populations.
+_HGG Adv._ 2026;7(2):100566.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41520179/);
+[Full-Text](https://doi.org/10.1016/j.xhgg.2026.100566).
+
+1. **Sun Q**, Li Y.
+Advances in haplotype phasing and genotype imputation.
+_Nat Rev Genet._ 2026;27(2): 155-169.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/40993437);
+[Full-Text](https://www.nature.com/articles/s41576-025-00895-2).
+
+1. Noordam R, Wang W, Nagarajan P, Wang H, Brown MR, Bentley AR, Hui Q, ..., **Sun Q**,  ..., van Heemst D.
+Genome-wide gene-sleep interaction study identifies novel lipid loci in 732,564 participants.
+_Atherosclerosis._ 2026;412:120603.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41325697/);
+[Full-Text](https://doi.org/10.1016/j.atherosclerosis.2025.120603).
+
+1. Reynolds KM, Sha D, **Sun Q**, Parsa A, Chen J, Choles HR, Dubin R, He J, Hsu C, Yaffe K, Shah V, Raj D, Rosas SE, Lash JP, Morris AP, Franceschini N and the CRIC Study Investigators. 
+Diabetes genetic clusters and clinical outcomes in the chronic renal insufficiency cohort.
+_Clin J Am Soc Nephrol._ 2026;21(2):221-228.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41289010/);
+[Full-Text](https://doi.org/10.2215/CJN.0000000882).
+
+1. Smith JL, Adebamowo CA, Adebamowo SN, Darst BF, Fullerton M, Gogarten SM, Hamed ME, Hirbo JB, Hysong MR, Johar AS, Khan AT, Kullo LJ, Konigsberg IR, Kraft P, Lange LA, Li Y, Martin AR, Nelson SC, Choudhury A, Ramsay M, Cobran EW, Schaid DJ, Sharma J, Wnag Y, Wojcik GL, Polygenic Risk Methods in Diverse Populations (PRIMED) Consortium, **Sun Q**\#. 
+Recommendations for responsible use of population descriptors in polygenic risk score development.
+_Nat Genet._ 2025;57(12):2962-2971.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41286102/);
+[Full-Text](https://rdcu.be/eRu6W).
+
+1. Liu C<sup>*</sup>, Joehanes R<sup>*</sup>, Ma J<sup>*</sup>, Xie J, Yang J, Wang M, Huan T, Hwang S, Wen J, 
+**Sun Q**, Cumhur DY, Heard-Costa N, Orchard P, Carson AP, Raffield LM, Reiner AP, Li Y, O'Connor G, Murabito JM, Munson P, Levy D.
+Integrating whole genome and transcriptome sequencing to characterize the genetic architecture of isoform variation. 
+_Nat Commun._ 2025;16(1):10615. 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41274869/);
+[Full-Text](https://www.nature.com/articles/s41467-025-64336-8).
+
+1. Tang C<sup>*</sup>, **Sun Q**<sup>*</sup>, Zeng X, Yang X, Liu F, Zhao J, Shen Y, Liu B, Wen J, Li Y. 
+Cell type-specific inference from bulk RNA-sequencing data by integrating single-cell reference profiles via EPIC-unmix.  
+_Genome Biol._ 2025;26(1):395.
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/41267097/);
+[Full-Text](https://doi.org/10.1186/s13059-025-03847-5).
+
 1. Zhao Y, Chen Y, Du J, **Sun Q**, Wang R, Chen C.
 Dual-route embedding-aware graph neural networks for drug repositioning.
 _Brief Bioinform._ 2025;26(5):bbaf555.
@@ -98,12 +152,6 @@ Polygenic risk score for type 2 diabetes shows context-dependent effects across 
 _Nat Commun._ 2025;16(1):8632.
 [PubMed](https://pubmed.ncbi.nlm.nih.gov/41034193);
 [Full-Text](https://www.nature.com/articles/s41467-025-63546-4).
-
-1. **Sun Q**, Li Y.
-Advances in haplotype phasing and genotype imputation.
-_Nat Rev Genet._ Published online September 24, 2025. doi:10.1038/s41576-025-00895-2.
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/40993437);
-[Full-Text](https://www.nature.com/articles/s41576-025-00895-2).
 
 1. Peterson K, Powe CE, **Sun Q**, Azure C, Azure T, Davis H, Gourneau K, Larocque S, Poitra C, Poitra S, Standish S, Parisien TJ, Morin KJ, Best LG.
 Polygenic Risk Score Associated with Gestational Diabetes Mellitus in an American Indian Population.
